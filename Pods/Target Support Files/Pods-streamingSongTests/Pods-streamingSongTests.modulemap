@@ -1,0 +1,6 @@
+framework module Pods_streamingSongTests {
+  umbrella header "Pods-streamingSongTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
