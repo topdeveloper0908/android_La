@@ -1,0 +1,87 @@
+
+/* Class = "UIButton"; normalTitle = "Programmaschema"; ObjectID = "2z5-CU-gmT"; */
+"2z5-CU-gmT.normalTitle" = "Programmaschema";
+
+/* Class = "UILabel"; text = "Twitch"; ObjectID = "4IY-Ue-Fqw"; */
+"4IY-Ue-Fqw.text" = "Twitch";
+
+/* Class = "UILabel"; text = "Verstuur hier een berichtje naar"; ObjectID = "6qN-fC-SN4"; */
+"6qN-fC-SN4.text" = "Verstuur hier een berichtje naar";
+
+/* Class = "UINavigationItem"; title = "ROOSEN LEUVEN"; ObjectID = "BWx-rw-nyr"; */
+"BWx-rw-nyr.title" = "ROOSEN LEUVEN";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "CgA-ul-Lc5"; */
+"CgA-ul-Lc5.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Stop"; ObjectID = "KAp-qs-cQO"; */
+"KAp-qs-cQO.normalTitle" = "Stop";
+
+/* Class = "UILabel"; text = "onze redactie:"; ObjectID = "LsU-KQ-SxH"; */
+"LsU-KQ-SxH.text" = "onze redactie:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "MMD-lA-Q6H"; */
+"MMD-lA-Q6H.text" = "Label";
+
+/* Class = "UILabel"; text = "RADIO KOMPAS IN BEELD:"; ObjectID = "TXr-mE-Uwm"; */
+"TXr-mE-Uwm.text" = "FM GOUD";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Tcg-hy-Ty8"; */
+"Tcg-hy-Ty8.text" = "Label";
+
+/* Class = "UILabel"; text = "Min"; ObjectID = "UxF-Ei-Bk0"; */
+"UxF-Ei-Bk0.text" = "Min";
+
+/* Class = "UILabel"; text = "Aantal minuten dat de muziek blijft spelen:"; ObjectID = "Xy4-Uj-nfN"; */
+"Xy4-Uj-nfN.text" = "Aantal minuten dat de muziek blijft spelen:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Z2e-0v-pMS"; */
+"Z2e-0v-pMS.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Verstuur"; ObjectID = "cox-Ed-NdX"; */
+"cox-Ed-NdX.normalTitle" = "Verstuur";
+
+/* Class = "UIButton"; normalTitle = "Twitch"; ObjectID = "d2k-DT-F9i"; */
+"d2k-DT-F9i.normalTitle" = "Twitch";
+
+/* Class = "UILabel"; text = "Periscope"; ObjectID = "dCM-FE-J9o"; */
+"dCM-FE-J9o.text" = "Periscope";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "da8-7d-LjF"; */
+"da8-7d-LjF.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "fUY-oT-Vtg"; */
+"fUY-oT-Vtg.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "2018"; ObjectID = "fqZ-ri-hkS"; */
+"fqZ-ri-hkS.text" = "2020";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "khc-0c-zmY"; */
+"khc-0c-zmY.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Periscope"; ObjectID = "lWN-bv-gYR"; */
+"lWN-bv-gYR.normalTitle" = "Periscope";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "mtq-Ds-add"; */
+"mtq-Ds-add.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "nQn-66-mH2"; */
+"nQn-66-mH2.text" = "Label";
+
+/* Class = "UILabel"; text = "Video streaming"; ObjectID = "sIs-Dh-itR"; */
+"sIs-Dh-itR.text" = "Op zondagvoormiddag kijken: ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "vce-NC-CWy"; */
+"vce-NC-CWy.text" = "Label";
+
+/* Class = "UILabel"; text = "Uitzending gemist:"; ObjectID = "w5w-ub-QtZ"; */
+"w5w-ub-QtZ.text" = "Uitzending gemist:";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "x1U-on-COp"; */
+"x1U-on-COp.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "xKi-3d-uIC"; */
+"xKi-3d-uIC.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "yUk-fi-E1Q"; */
+"yUk-fi-E1Q.normalTitle" = "Button";
